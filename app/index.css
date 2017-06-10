@@ -1,0 +1,17 @@
+body {
+    background: #faf1cc;
+}
+h3 {
+    color: green;
+}
+
+#app {
+    border: 2px solid black;
+
+}
+.thumbnail{
+    min-height: 350px;
+}
+.thumbnail img {
+    max-height: 350px;
+}
